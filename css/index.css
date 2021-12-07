@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=PT+Sans&display=swap');
+
+.bg-accent{
+  background-color: #FB8500;
+}
+
+.bg-blue{
+  background-color: #023047;
+}
+
+.border-orange{
+  border: #FB8500 1px solid;
+}
+
+.border-blue{
+  border:#023047 1px solid;
+}
+
+.color-accent{
+  color: #FB8500;
+}
+
+.color-primary{
+  color:#023047;
+}
+
+ul li  a:hover{
+  background-color: #023047;
+}
+
+ul li a::selection{
+  background-color: #023047;
+}
+
+.btn{
+  background-color: #FB8500;
+  border: #FB8500;
+  color: antiquewhite;
+}
+
+.btn:visited{
+  background-color: #FB8500;
+}
+
+.btn:hover{
+  background-color: #023047;
+  border: #023047;
+  color: antiquewhite;
+}
+
+.btn:active{
+  border: #023047;
+}
+
+.bg-primary{
+  background-color: #FB8500;
+}
+
+.border-primary{
+  border: solid 1px #FB8500;
+}
+
+.bi-reception-4{
+  font-size: 200px;  
+}
+
+.bi-globe{
+  font-size: 200px;
+}
+
+.service-icon{
+  font-size: 40px;
+  color: #FB8500;
+}
+
+p{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+  line-height: 180%;  
+  
+}
+
+.in-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+}
