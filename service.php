@@ -23,8 +23,8 @@
 
             <div class="col-sm-4">
             <i class="bi bi-briefcase-fill service-icon"></i>
-            <h4>JOB DONE</h4>
-            <p>Lorem ipsum dolor sit amet..</p>
+            <h4>We offer quick solutions to our customer .</h4>
+            <p> </p>
             </div>
 
 
@@ -37,7 +37,9 @@
             <div class="col-sm-4">
             <i class="bi bi-lightning-charge-fill service-icon"></i>
             <h4>Unintruptted Services</h4>
-            <p>Lorem ipsum dolor sit amet..</p>
+            <p>Best in class reliable connection for our customer . We know how important it is 
+              for you to stay connected .
+            </p>
             </div>
 
             <div class="col-sm-4">
